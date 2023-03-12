@@ -1,0 +1,62 @@
+.how-to-page {
+    height: 100vh;
+    margin-left: 200px;
+}
+
+h3 {
+    font-size: 50px;
+}
+
+.htp-title {
+    letter-spacing: 3px;
+    margin: 50px;
+    padding: 20px;
+    text-align: center;
+}
+
+.ht-grid-container {
+    display: grid;
+    grid-template-columns: auto auto;
+    height: 88vh;
+}
+
+.ht-gi {
+    display: flex;
+}
+
+.step-num img {
+    width: 100px;
+    height: 100px;
+}
+
+.ht-img img {
+    margin-left: 80px;
+    margin-top: 50px;
+    width: 300px;
+    height: 300px;
+}
+
+.arrow {
+    position: absolute;
+}
+
+.arrow1 {
+    left: 45%;
+}
+
+.arrow2 {
+    right: 20%;
+    rotate: 90deg;
+    top: 165%;
+}
+
+.arrow3 {
+    rotate: 180deg;
+    top: 180%;
+    left: 50%;
+}
+
+.arrow img {
+    width: 100px;
+    height: 100px;
+}
